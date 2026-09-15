@@ -39,10 +39,6 @@ venv.bak/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# PyCharm / VSCode (optional)
-# .idea/
-# .vscode/
-
 # Streamlit
 .streamlit/secrets.toml
 
@@ -54,3 +50,6 @@ htmlcov/
 .coverage.*
 .cache
 .pytest_cache/
+
+# Video (too large for GitHub)
+bemo.mp4
