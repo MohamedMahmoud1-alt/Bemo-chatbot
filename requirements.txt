@@ -1,0 +1,11 @@
+streamlit>=1.36
+google-generativeai
+ddgs
+sympy
+requests
+pypdf
+python-docx
+python-pptx
+openpyxl
+pillow
+SpeechRecognition

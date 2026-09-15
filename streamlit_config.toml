@@ -1,0 +1,17 @@
+# Rename this file to "config.toml" and place it inside a ".streamlit" folder
+# next to bemo_streamlit_app.py, i.e.:
+#
+#   your_project/
+#     bemo_streamlit_app.py
+#     .streamlit/
+#       config.toml   <- this file, renamed
+#
+# It recreates the Catppuccin-Mocha dark theme from the original Tkinter app.
+
+[theme]
+base = "dark"
+primaryColor = "#89b4fa"
+backgroundColor = "#1e1e2e"
+secondaryBackgroundColor = "#181825"
+textColor = "#cdd6f4"
+font = "sans serif"
